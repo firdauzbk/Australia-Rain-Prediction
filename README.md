@@ -1,4 +1,4 @@
-# Australia-Rain-Prediction
+# Predicting Rain in Australia
 
 ## Introduction
 Is it possible to predict if it will rain the following day in Australia through the implementation of different models using Python and Scikit-Learn.
